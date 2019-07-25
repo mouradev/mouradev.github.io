@@ -5,7 +5,7 @@ repository: mouradev/mouradev.github.io
 
 user:
   email: lucasmoura765@gmail.com
-  bio: I'm a backend developer since 2014, but also like many types of technology.
+  bio: I'm a backend web developer since 2014, but also like many types of technology.
 
 plugins:
   - jekyll-octicons
@@ -27,14 +27,14 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - mouradev.github.io
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -68,3 +68,10 @@ topics:
   - name: Kubernetes
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
+
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+
+  - name: Microservices
+    web_url: https://github.com/topics/microservices

@@ -29,7 +29,7 @@ projects:
     - stars
   limit: 8
   exclude:
-    archived: false
+    archived: true
     forks: false
     projects:
       - mouradev.github.io

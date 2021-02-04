@@ -25,11 +25,11 @@ defaults:
 projects:
   sort_by: pushed
   sort_by options:
-    - pushed
     - stars
+    - pushed
   limit: 8
   exclude:
-    archived: true
+    archived: false
     forks: false
     projects:
       - mouradev.github.io

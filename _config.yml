@@ -33,6 +33,8 @@ projects:
     forks: false
     projects:
       - mouradev.github.io
+      - repos_manager
+      - lumen_exp
 
 social_media:
   # behance: your_username

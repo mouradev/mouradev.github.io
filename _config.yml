@@ -53,6 +53,10 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: Ruby on Rails
+    web_url: https://github.com/topics/rails
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png
+
   - name: Docker
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
@@ -73,9 +77,9 @@ topics:
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
 
-  - name: Flutter
-    web_url: https://github.com/topics/flutter
-    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
   - name: Microservices
     web_url: https://github.com/topics/microservices
@@ -83,6 +87,12 @@ topics:
   - name: Elasticsearch
     web_url: https://github.com/topics/elasticsearch
     
+  - name: Cloud
+    web_url: https://github.com/topics/cloud
+    
   - name: Code Quality
     web_url: https://github.com/topics/code-quality
+    
+  - name: Continuous Integration
+    web_url: https://github.com/topics/continuous-integration
     

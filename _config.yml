@@ -5,7 +5,7 @@ repository: mouradev/mouradev.github.io
 
 user:
   email: contato@mouradev.com
-  bio: I'm a back-end web developer since 2014, but I also like many kinds of technology.
+  bio: Hi! My name is Lucas Moura, known by some as "mouraDev". I'm a Software Engineer and a professor.
 
 plugins:
   - jekyll-octicons

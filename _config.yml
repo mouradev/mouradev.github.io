@@ -5,7 +5,7 @@ repository: mouradev/mouradev.github.io
 
 user:
   email: contato@mouradev.com
-  bio: I'm a backend web developer since 2014, but also like many types of technology.
+  bio: I'm a back-end web developer since 2014, but I also like many kinds of technology.
 
 plugins:
   - jekyll-octicons
@@ -41,7 +41,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: canal_do_mouradev
   # keybase: your_username
   linkedin: mouradev
   # mastodon: your_username

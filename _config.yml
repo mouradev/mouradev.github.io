@@ -37,23 +37,23 @@ projects:
       - lumen_exp
 
 social_media:
+  linkedin: mouradev
+  medium: mouradev
+  instagram: canal_do_mouradev
+  youtube: UCB3d5n5wyd87Gd83flmbeKQ
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  instagram: canal_do_mouradev
   # keybase: your_username
-  linkedin: mouradev
   # mastodon: your_username
-  medium: mouradev
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  youtube: UCB3d5n5wyd87Gd83flmbeKQ
-
+  
 topics:
   - name: Ruby on Rails
     web_url: https://github.com/topics/rails
